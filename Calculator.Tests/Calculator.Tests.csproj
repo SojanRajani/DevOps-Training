@@ -16,10 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Steps\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\Calculator.Library\Calculator.Library.csproj" />
     <ProjectReference Include="..\Calculator\Calculator.csproj" />
   </ItemGroup>
 

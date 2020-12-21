@@ -2,7 +2,8 @@
          When I withdraw an amount from the given account balance    
          The resultant balance should be displayed.
 
-Scenario Outline: Given There is <AccountBalance> in my account
+Scenario Outline: When im withdrawing cash
+    Given There is <AccountBalance> in my account
     When I withdraw <Amount> from my account
     Then The balance in my account is <Balance>
 

@@ -104,3 +104,8 @@ C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\obj\Debug\netcoreapp3.
 C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\obj\Debug\netcoreapp3.1\Calculator.Tests.dll
 C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\obj\Debug\netcoreapp3.1\Calculator.Tests.pdb
 C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\obj\Debug\netcoreapp3.1\Calculator.Tests.genruntimeconfig.cache
+C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\bin\Debug\netcoreapp3.1\Calculator.Library.dll
+C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\bin\Debug\netcoreapp3.1\Calculator.Library.pdb
+C:\Users\ustdn14\source\repos\Calculator\Calculator.Tests\bin\Debug\netcoreapp3.1\Calculator.pdb
