@@ -8,5 +8,6 @@ Scenario Outline: When im withdrawing cash
     Then The balance in my account is <Balance>
 
         Examples:
-            | AccountBalance| Amount| Balance|
-            | 10000         | 5000  | 5000   |
+            | AccountBalance | Amount | Balance |
+            | 10000          | 5000   | 5000    |
+            | 15000          | 2000   | 13000   | 

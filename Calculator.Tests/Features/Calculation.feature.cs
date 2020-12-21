@@ -146,6 +146,20 @@ this.ScenarioInitialize(scenarioInfo);
 this.WhenImWithdrawingCash("10000", "5000", "5000", ((string[])(null)));
 #line hidden
         }
+        
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("When im withdrawing cash: 15000")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "Finding the balance in Account")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "15000")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:AccountBalance", "15000")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Amount", "2000")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Balance", "13000")]
+        public virtual void WhenImWithdrawingCash_15000()
+        {
+#line 5
+this.WhenImWithdrawingCash("15000", "2000", "13000", ((string[])(null)));
+#line hidden
+        }
     }
 }
 #pragma warning restore
