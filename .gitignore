@@ -3,3 +3,6 @@
 ################################################################################
 
 /Calculator/obj
+/Calculator/.vs
+/Calculator/Calculator.Tests/bin
+/Calculator/Calculator.Tests/obj
